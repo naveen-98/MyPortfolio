@@ -4,3 +4,7 @@ This is my personal website. I made this using HTML, CSS, and JS. I presented th
 This is main page ( light mood) <br>
 
 <img src="New folder/web.JPG" alt="">
+<hr>
+This is main page dark mood
+<br>
+<img src="New folder/web2.JPG" alt="">
