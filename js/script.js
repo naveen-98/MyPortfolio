@@ -43,4 +43,5 @@ const nav = document.querySelector(".nav"),
         }
         const target = element.getAttribute("href").split("#")[1];
         document.querySelector("#"+ target).classList.add("active")
+        
     }
