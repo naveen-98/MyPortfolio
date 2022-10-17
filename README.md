@@ -7,4 +7,11 @@ This is main page ( light mood) <br>
 <hr>
 This is main page dark mood
 <br>
+<br>
 <img src="New folder/web2.JPG" alt="">
+<br><hr>
+This is About page for my portfolio <br>
+<br>
+<img src="New folder/web3.JPG" alt="">
+
+
